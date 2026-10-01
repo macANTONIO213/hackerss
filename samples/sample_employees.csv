@@ -1,0 +1,101 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,Location,HireDate,Salary,Status
+E1001,Hana,Nguyen,Operations,Operations Associate,London,2023-04-26,10000,Active
+E1002,Emma,Chen,Operations,Logistics Coordinator,Tokyo,2021-02-11,45500,Active
+E1003,Ivan,Tanaka,Engineering,Senior Engineer,Sydney,2020-08-31,100000,Active
+E1004,Hana,Lee,Finance,Accountant,London,2021-08-10,48000,Active
+E1005,Olivia,Kim,Marketing,Marketing Specialist,Berlin,2017-05-31,40000,Active
+E1006,Daniel,Lee,Marketing,Marketing Specialist,Sydney,2021-10-08,61500,Active
+E1007,Jack,Garcia,HR,HR Manager,New York,2025-05-05,31500,On Leave
+E1008,Yuki,Smith,Support,Customer Success Manager,London,2017-02-26,26000,Active
+E1009,Carlos,Khan,Engineering,QA Analyst,Berlin,2024-09-19,81500,Active
+E1010,Hana,Singh,Sales,Sales Director,Sydney,2017-05-08,50000,Active
+E1011,Fatima,Müller,HR,Recruiter,Berlin,2020-12-27,48000,Active
+E1012,Arjun,Costa,Operations,Operations Associate,London,2017-06-18,43000,Active
+E1013,Yuki,Silva,Support,Customer Success Manager,Sydney,2018-01-01,25000,Active
+E1014,Elena,Patel,Sales,Account Manager,London,2019-06-09,62000,Active
+E1015,Ava,Lopez,Operations,Operations Manager,Berlin,2017-12-12,38000,Active
+E1016,Tariq,Suzuki,Sales,Sales Representative,Tokyo,2016-07-20,92000,Active
+E1017,Mia,Davis,Sales,Sales Representative,Berlin,2023-11-19,60500,Active
+E1018,Daniel,Martin,HR,HR Coordinator,Sydney,2020-12-07,72000,Active
+E1019,Hana,Yamamoto,Operations,Operations Manager,New York,2023-06-03,53500,Active
+E1020,Aiko,Clark,Marketing,Brand Manager,New York,2020-02-02,45000,Active
+E1021,Carlos,Evans,Support,Customer Success Manager,New York,2025-03-27,21500,Active
+E1022,Hiro,Martin,HR,HR Manager,Tokyo,2019-03-12,34500,On Leave
+E1023,Zara,Watanabe,Marketing,Content Strategist,London,2016-04-03,46500,Active
+E1024,Emma,Garcia,Sales,Sales Director,Berlin,2025-08-14,75500,Active
+E1025,Oliver,Moreau,Support,Support Team Lead,Singapore,2016-05-30,30000,Active
+E1026,Mia,Silva,Marketing,Brand Manager,Sydney,2021-10-20,48000,Active
+E1027,Zara,Wilson,Operations,Operations Manager,Berlin,2022-07-14,30000,Active
+E1028,Liam,Chen,Sales,Sales Director,London,2018-10-16,44500,On Leave
+E1029,Noah,Nguyen,Sales,Sales Representative,Tokyo,2022-12-09,28500,Active
+E1030,Nina,Silva,Engineering,Senior Engineer,Sydney,2018-02-14,66500,On Leave
+E1031,Sam,Lee,HR,Recruiter,London,2023-10-19,43000,Active
+E1032,Mia,Lopez,Engineering,DevOps Engineer,Sydney,2018-12-22,72000,Active
+E1033,Carlos,Smith,Operations,Logistics Coordinator,Sydney,2022-03-31,41500,Active
+E1034,Lucas,Silva,Support,Customer Success Manager,Berlin,2017-10-15,41500,Active
+E1035,Fatima,Evans,Finance,Accountant,Berlin,2020-03-09,46500,Active
+E1036,Aiko,Garcia,Engineering,Senior Engineer,London,2021-01-23,48000,Active
+E1037,Lena,Watanabe,Finance,Accountant,London,2024-09-11,57500,Active
+E1038,Elena,Sato,Engineering,DevOps Engineer,Sydney,2017-12-22,94000,Active
+E1039,Lucas,Sato,Operations,Operations Associate,Tokyo,2016-09-26,44500,On Leave
+E1040,Arjun,Smith,Operations,Operations Associate,Singapore,2023-05-22,37500,Active
+E1041,Hiro,Smith,HR,HR Manager,Tokyo,2020-12-15,62500,Active
+E1042,Fatima,Khan,Engineering,Software Engineer,Singapore,2022-07-28,69000,Active
+E1043,Emma,Lopez,HR,HR Manager,Singapore,2021-12-11,47000,On Leave
+E1044,Priya,Moreau,HR,HR Manager,New York,2017-12-04,38500,Active
+E1045,Chloe,Wilson,Marketing,Content Strategist,Tokyo,2022-07-14,43500,Active
+E1046,Carlos,Garcia,Finance,Controller,London,2021-04-25,62500,Active
+E1047,Yuki,Watanabe,Marketing,Marketing Specialist,New York,2018-11-30,34500,Active
+E1048,Chloe,Davis,Sales,Sales Director,Singapore,2021-02-03,52500,Active
+E1049,Carlos,Watanabe,Operations,Operations Associate,New York,2018-05-11,49500,Active
+E1050,Hana,Sato,Engineering,Senior Engineer,Sydney,2016-09-28,75500,Active
+E1051,Daniel,Ahmed,Sales,Account Manager,New York,2024-07-25,63500,Active
+E1052,Hana,Smith,Engineering,Software Engineer,New York,2024-04-20,70500,Active
+E1053,Ravi,Martin,Operations,Operations Manager,Berlin,2016-10-23,63000,Active
+E1054,Amara,Martin,Engineering,Software Engineer,New York,2025-08-06,52000,On Leave
+E1055,Sofia,Sato,HR,Recruiter,Tokyo,2016-06-06,32500,Active
+E1056,Carlos,Rossi,Sales,Sales Director,Berlin,2022-06-24,63000,On Leave
+E1057,Fatima,Evans,Operations,Operations Associate,London,2025-06-05,24000,Active
+E1058,Olivia,Lee,Engineering,DevOps Engineer,Sydney,2025-05-14,55000,Active
+E1059,Carlos,Khan,Marketing,Marketing Specialist,Berlin,2022-11-12,35500,Active
+E1060,Kenji,Sato,Sales,Sales Representative,London,2020-02-29,71000,Active
+E1061,Hana,Evans,Operations,Operations Associate,New York,2018-09-06,25500,Active
+E1062,Leo,Johnson,Operations,Operations Associate,Tokyo,2022-08-15,36000,Active
+E1063,Sofia,Kim,Sales,Sales Director,Berlin,2017-12-23,58500,Active
+E1064,Ivan,Ahmed,Operations,Operations Associate,Berlin,2019-11-23,47500,On Leave
+E1065,Mia,Tanaka,Sales,Sales Director,Singapore,2022-12-13,46000,Active
+E1066,Olivia,Davis,Marketing,Content Strategist,Sydney,2025-08-22,44500,Active
+E1067,Chloe,Moreau,Operations,Logistics Coordinator,New York,2020-09-08,54500,Active
+E1068,Lucas,Lopez,Operations,Operations Manager,Berlin,2016-06-05,29500,Active
+E1069,Sakura,Costa,HR,HR Coordinator,New York,2019-07-22,46000,Active
+E1070,Ivan,Ito,Sales,Account Manager,Berlin,2021-07-03,52500,Active
+E1071,Sam,Lee,Finance,Controller,London,2020-09-24,65000,Active
+E1072,Julia,Johnson,Marketing,Marketing Specialist,London,2022-02-05,47500,Active
+E1073,Liam,Smith,Sales,Sales Representative,Berlin,2016-08-26,70000,On Leave
+E1074,Omar,Watanabe,Support,Customer Success Manager,Singapore,2020-02-09,37500,Active
+E1075,Lena,Nguyen,Operations,Operations Associate,Sydney,2020-07-17,43500,Active
+E1076,Carlos,Yamamoto,Support,Support Team Lead,London,2024-12-05,41500,Active
+E1077,Elena,Smith,Support,Customer Success Manager,London,2020-10-22,47500,Active
+E1078,Grace,Martin,Finance,Controller,New York,2020-03-18,44000,Active
+E1079,Tariq,Lopez,HR,HR Manager,Berlin,2025-01-01,56000,Active
+E1080,Daniel,Yamamoto,Operations,Operations Associate,Sydney,2020-01-18,52000,Active
+E1081,Fatima,Brown,Support,Support Team Lead,Tokyo,2020-06-07,38000,Active
+E1082,Leo,Garcia,Sales,Sales Representative,London,2018-08-02,46500,Active
+E1083,Priya,Garcia,Finance,Financial Analyst,Berlin,2022-12-03,66000,Active
+E1084,Priya,Costa,HR,Recruiter,Berlin,2015-09-13,42500,On Leave
+E1085,Diego,Khan,Operations,Logistics Coordinator,Tokyo,2024-11-16,15000,Active
+E1086,Omar,Martin,Marketing,Brand Manager,Sydney,2024-07-27,57000,Active
+E1087,Nina,Nguyen,Support,Support Team Lead,Berlin,2017-06-22,32000,Active
+E1088,Lena,Clark,Engineering,Senior Engineer,Berlin,2022-07-02,62000,Active
+E1089,Lena,Chen,HR,HR Manager,Sydney,2025-03-03,44500,Active
+E1090,Elena,Müller,Engineering,Software Engineer,New York,2016-07-09,71000,Active
+E1091,Olivia,Yamamoto,Marketing,Content Strategist,New York,2018-08-31,38000,Active
+E1092,Liam,Clark,Marketing,Brand Manager,Tokyo,2020-04-10,61000,Active
+E1093,Sofia,Yamamoto,Sales,Sales Representative,London,2023-10-05,61500,Active
+E1094,Fatima,Patel,Support,Support Team Lead,Sydney,2016-09-16,14000,Active
+E1095,Daniel,Yamamoto,HR,Recruiter,London,2020-03-19,65000,On Leave
+E1096,Mei,Yamamoto,HR,HR Coordinator,New York,2023-01-21,66500,Active
+E1097,Diego,Moreau,HR,Recruiter,Berlin,2018-07-01,25000,Active
+E1098,Fatima,Kim,Engineering,QA Analyst,Sydney,2024-04-25,69000,On Leave
+E1099,Sofia,Rossi,Support,Customer Success Manager,Berlin,2021-05-07,19500,Active
+E1100,Aiko,Evans,Engineering,DevOps Engineer,Berlin,2018-10-29,66000,Active

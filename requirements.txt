@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+openpyxl>=3.1
+anthropic>=0.40
+openai>=1.50
+python-docx>=1.1
